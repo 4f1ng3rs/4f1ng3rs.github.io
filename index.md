@@ -17,3 +17,18 @@ Soy 4f1ng3rs, un entusiasta de la ciberseguridad y el hacking ético. En este si
 
          Where the data flows in shadows unseen...
           Connecting... Exploiting... Surviving...
+```
+       ▄███████████▄
+     ▄█████░░██░░█████▄
+    ████░░░░░██░░░░░████
+   ████░░░░░░██░░░░░░████          ╔═╗╦ ╦╔═╗╔═╗╦═╗╔═╗╦═╗╔═╗
+   █████░░░░██░░░░█████           ╠═╣║║║║ ╦║╣ ╠╦╝╠═╣╠╦╝║ ╦
+   ▀██████░░██░░██████▀           ╩ ╩╚╩╝╚═╝╚═╝╩╚═╩ ╩╩╚═╚═╝
+      ▀████████████▀
+          ▀██▀██▀
+
+      CONNECTING TO 4F1NG3RS CYBER NETWORK...
+        [ ACCESS GRANTED ]  [ ENCRYPTION ENABLED ]
+────────────────────────────────────────────────────
+||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  
+────────────────────────────────────────────────────```
