@@ -32,3 +32,8 @@ Soy 4f1ng3rs, un entusiasta de la ciberseguridad y el hacking ético. En este si
 ────────────────────────────────────────────────────
 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  
 ────────────────────────────────────────────────────```
+
+
+## Publicaciones
+- [Análisis OSINT](./analisis-osint.md)
+
